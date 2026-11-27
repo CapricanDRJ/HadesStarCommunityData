@@ -1,9 +1,9 @@
 ---
 title: ​Curcubeu
-description: W:17 L:42 D:0 Bonus ❌ 11%
+description: W:18 L:42 D:0 Bonus ✅ 44%
 image: ./favicon.png
-Summary: ❌ 3 - 16 **Internationals**
-date: 2026-11-22T08:47:38.000Z
+Summary: ✅ 26 - 6 **Death Flight**
+date: 2026-11-27T11:16:57.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -18,14 +18,14 @@ a browser: https://dsc.gg/sah
 <br>
 
 ### [Discord](https://discord.gg/23cA4bB7X8)
-### Whitestar Bonus ❌ 11%
+### Whitestar Bonus ✅ 44%
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 930 🔻  (-2)|
-| ELO Competitive | 1104 🔻  (0)|
-| Total Matches | 59 |
-| Wins | 17 |
+| ELO Regular | 947 🔺  (18)|
+| ELO Competitive | 1131 🔺  (27)|
+| Total Matches | 60 |
+| Wins | 18 |
 | Losses | 42 |
 | Draws | 0 |
 | Streak Record | 8 |
@@ -47,7 +47,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794905258,1794461622,1794029330,1793579984,1793078611,1792638825,1792143323,1791693634,1791261359,1790813759,1790258301,1789818206,1789307225,1769059096,1768609317,1768257489,1767641869,1753639346,1752898009,1743058309,1735743250,1735303952,1734859876,1734023361,1733558814,1732912788,1732444292,1731759351,1731187319,1729885850,1729446534,1729412869,1714896362,1711964603,1711003672,1710484759,1710017539,1709432183,1707210766,1706989785,1706707301,1706545325,1706258027,1706096652,1705810331,1705658500,1705232679,1705187607,1704799340,1704323478,1702724036,1702221529,1701762888,1701323201,1700867568,1700406531,1699970972,1699528201,1699010444];
+        let timestamps = [1795346217,1794905258,1794461622,1794029330,1793579984,1793078611,1792638825,1792143323,1791693634,1791261359,1790813759,1790258301,1789818206,1789307225,1769059096,1768609317,1768257489,1767641869,1753639346,1752898009,1743058309,1735743250,1735303952,1734859876,1734023361,1733558814,1732912788,1732444292,1731759351,1731187319,1729885850,1729446534,1729412869,1714896362,1711964603,1711003672,1710484759,1710017539,1709432183,1707210766,1706989785,1706707301,1706545325,1706258027,1706096652,1705810331,1705658500,1705232679,1705187607,1704799340,1704323478,1702724036,1702221529,1701762888,1701323201,1700867568,1700406531,1699970972,1699528201,1699010444];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +136,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 | Opponent | Wins | Losses | Draws | Total Matches |
 | --- | --- | --- | --- | --- |
+| [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) | 1 | 1 | 0 | 2 |
 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) | 1 | 1 | 0 | 2 |
 | [IX Легион](https://ws.tsl.rocks/corp/1621eab3bcc1ebffe496faadcde81cd31c503b2ac667ef88fbf2d64ea1f9908b/) | 0 | 2 | 0 | 2 |
 | [SternenStaub](https://ws.tsl.rocks/corp/11f1e8a4d522eaef8cb40c95d07b4533097aa6509ddafd1d7efc1449e8b10f38/) | 0 | 3 | 0 | 3 |
@@ -150,6 +151,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/27 | 26-6 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | ❌ | 2026/11/22 | 3-16 | [Internationals](https://ws.tsl.rocks/corp/7ddbb3c057311d12ecc582b5767dc061653f6b7769ea81f82c752ec258aff6cc/) |
 | ❌ | 2026/11/17 | 10-31 | [Team Elite](https://ws.tsl.rocks/corp/61bb19b2ab1d13a5831808e0f06d417d74a87fc04d235e3ec7c429f89693465b/) |
 | ❌ | 2026/11/12 | 2-11 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
@@ -216,5 +218,5 @@ Corporation ID: a2bdd69ff0d73fcdb3bd9461684b2951dd4df9009b7ea8eae1592efff76e3c59
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795337258"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795778217"></span>
 </div>
