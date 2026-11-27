@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Maximys"
-description: "ws: 18 μ: 27.37"
+description: "ws: 19 μ: 27.91"
 ---
-- **WhiteStars**: 18
-- **Eligible**: 14
-- **Rating**: 3.79
-- **μ**: 27.37  
-- **σ**: 7.86
-- W: 12, L: 6, T: 0
+- **WhiteStars**: 19
+- **Eligible**: 15
+- **Rating**: 4.42
+- **μ**: 27.91  
+- **σ**: 7.83
+- W: 13, L: 6, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 18 μ: 27.37"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 14 |
+| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 15 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 18 μ: 27.37"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-27 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 28-6 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | 2026-11-19 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 25-0 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | 2026-11-12 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 13-8 | [U\.S\.A](https://ws.tsl.rocks/corp/6d7a18e9893736881762a4e1b687b55e7311d367267ff5a9cc8e45722b14ea06/) |
 | 2026-11-05 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 20-3 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |

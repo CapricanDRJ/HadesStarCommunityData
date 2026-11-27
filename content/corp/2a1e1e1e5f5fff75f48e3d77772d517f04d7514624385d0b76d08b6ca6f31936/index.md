@@ -1,6 +1,6 @@
 ---
 title: ​双生帝王
-description: W:2 L:0 D:0 Bonus ✅ 
+description: W:2 L:0 D:0 Bonus ❌ 
 image: ./favicon.png
 Summary: ✅ 1 - 0 **双生帝花**
 date: 2026-11-20T13:23:33.000Z
@@ -15,7 +15,7 @@ date: 2026-11-20T13:23:33.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 
+### Whitestar Bonus ❌ 
 
 | Statistic | Value |
 | --- | --- |

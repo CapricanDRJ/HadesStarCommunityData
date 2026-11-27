@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "LordNordNight"
-description: "ws: 17 μ: 26.75"
+description: "ws: 18 μ: 27.25"
 ---
-- **WhiteStars**: 17
-- **Eligible**: 11
-- **Rating**: 2.88
-- **μ**: 26.75  
-- **σ**: 7.95
-- W: 11, L: 6, T: 0
+- **WhiteStars**: 18
+- **Eligible**: 12
+- **Rating**: 3.48
+- **μ**: 27.25  
+- **σ**: 7.92
+- W: 12, L: 6, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 17 μ: 26.75"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 11 |
+| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 12 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 17 μ: 26.75"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-27 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 28-6 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
 | 2026-11-19 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 25-0 | [NERF TOY'S](https://ws.tsl.rocks/corp/34838966e1d5c2467f7985cafe5dd5c420c5ac919621da59c90867f11d1162d0/) |
 | 2026-11-12 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 44-0 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43/) |
 | 2026-11-05 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 20-3 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
