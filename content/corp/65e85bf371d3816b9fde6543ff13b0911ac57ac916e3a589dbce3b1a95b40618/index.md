@@ -1,9 +1,9 @@
 ---
 title: ​Keltiad
-description: W:2 L:1 D:1 Bonus ❌ 4%
+description: W:2 L:2 D:1 Bonus ❌ 4%
 image: ./favicon.png
-Summary: ✅ 3 - 0 **Imperial Navy**
-date: 2026-11-06T07:23:17.000Z
+Summary: ❌ 3 - 7 **拼好团**
+date: 2026-11-27T07:16:37.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,13 +19,12 @@ date: 2026-11-06T07:23:17.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1208 🔺  (14)|
-| ELO Competitive | 1222 🔺  (16)|
-| Total Matches | 4 |
+| ELO Regular | 1192 🔻  (-16)|
+| ELO Competitive | 1207 🔻  (-15)|
+| Total Matches | 5 |
 | Wins | 2 |
-| Losses | 1 |
+| Losses | 2 |
 | Draws | 1 |
-| Streak | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
 
@@ -45,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1793517797,1793013780,1792140593,1791646168];
+        let timestamps = [1795331797,1793517797,1793013780,1792140593,1791646168];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -136,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/27 | 3-7 | [拼好团](https://ws.tsl.rocks/corp/a43643b00b6bb5ef81834d9e21b87d1af6ea8f702a6677b789e8ebcdec70b85a/) |
 | ✅ | 2026/11/06 | 3-0 | [Imperial Navy](https://ws.tsl.rocks/corp/3e07bbe9ec60b90d6861b7ee28cf8803a8f175db765ab57bcc8c20b4dcd3dd09/) |
 | ✅ | 2026/10/31 | 3-0 | [启示空间](https://ws.tsl.rocks/corp/92581941aa4cb7fce206e45a4bbd748a9eb5ae0fb8041a08d0fb28546a40d455/) |
 | ❌ | 2026/10/21 | 1-9 | [CubeTech](https://ws.tsl.rocks/corp/87982e2827e90c530babfa485c990438d2387f8999558eb306b678bdf0d11a95/) |
@@ -147,5 +147,5 @@ Corporation ID: 65e85bf371d3816b9fde6543ff13b0911ac57ac916e3a589dbce3b1a95b40618
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1793949797"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795763797"></span>
 </div>

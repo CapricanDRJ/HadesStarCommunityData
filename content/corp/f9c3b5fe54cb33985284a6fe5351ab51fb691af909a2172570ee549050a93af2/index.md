@@ -1,6 +1,6 @@
 ---
 title: ​STAR TERROR CZ
-description: W:61 L:38 D:1 Bonus ✅ 44%
+description: W:61 L:38 D:1 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ❌ 1 - 26 **Ark Summit**
 date: 2026-11-20T09:49:13.000Z
@@ -17,7 +17,7 @@ nos.github.io/HadesSpace/
 <br>
 
 ### [Discord](https://discord.gg/syV6uUt9dM)
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

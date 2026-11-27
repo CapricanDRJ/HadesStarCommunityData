@@ -1,9 +1,9 @@
 ---
 title: ​U.N.S.C
-description: W:4 L:7 D:2 Bonus ❌ 
+description: W:4 L:8 D:2 Bonus ❌ 
 image: ./favicon.png
-Summary: ❌ 0 - 9 **imperio viltrum**
-date: 2026-11-17T11:09:04.000Z
+Summary: ❌ 0 - 3 **共联·世界**
+date: 2026-11-27T08:39:55.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,11 +19,11 @@ date: 2026-11-17T11:09:04.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1155 🔻  (-12)|
-| ELO Competitive | 1177 🔻  (-8)|
-| Total Matches | 13 |
+| ELO Regular | 1141 🔻  (-14)|
+| ELO Competitive | 1172 🔻  (-5)|
+| Total Matches | 14 |
 | Wins | 4 |
-| Losses | 7 |
+| Losses | 8 |
 | Draws | 2 |
 | Streak Record | 2 |
 | Flagship | 0 |
@@ -44,7 +44,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794481744,1793944325,1765634397,1764930559,1764282294,1763759037,1763218230,1762732136,1762299755,1761849976,1761417623,1760956889,1760499598];
+        let timestamps = [1795336795,1794481744,1793944325,1765634397,1764930559,1764282294,1763759037,1763218230,1762732136,1762299755,1761849976,1761417623,1760956889,1760499598];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -135,6 +135,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ❌ | 2026/11/27 | 0-3 | [共联·世界](https://ws.tsl.rocks/corp/27b93d92a4266844042e082f8205dd0007064f762a2559db1d45c09dde41d0bf/) |
 | ❌ | 2026/11/17 | 0-9 | [imperio viltrum](https://ws.tsl.rocks/corp/1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f/) |
 | ❌ | 2026/11/11 | 0-6 | [Mondluftschiff](https://ws.tsl.rocks/corp/c4a20b57732f04c435c2003581298d68f4600ec3813311912cc74115e566fe53/) |
 | ❌ | 2025/12/18 | 2-3 | [Southall 1](https://ws.tsl.rocks/corp/b615ea00c3e44a9d96f23866b145a9523aa4915b68b2d8852edc202d67dea0da/) |
@@ -155,5 +156,5 @@ Corporation ID: 70dea9b99e388e4ecc15b483cde11adecf8126fc5fd8976564ee112bd466c1ac
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1794913744"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795768795"></span>
 </div>
