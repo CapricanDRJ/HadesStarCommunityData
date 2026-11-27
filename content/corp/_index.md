@@ -2,7 +2,7 @@
 title: Corporations
 description: Hades' Star Corporation Whitestar Records and Stats Directory
 layout: page
-date: 2026-11-27T03:55:42.504Z
+date: 2026-11-27T06:55:42.256Z
 summary: "Corporation directory"
 ---
 

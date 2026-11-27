@@ -1,6 +1,6 @@
 ---
 title: ​Galactic Empire
-description: W:62 L:70 D:1 Bonus ✅ 46%
+description: W:62 L:70 D:1 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 14 - 0 **Spacekill**
 date: 2026-11-20T05:48:56.000Z
@@ -19,7 +19,7 @@ will be kicked! Founder: Emperor
 <br>
 
 ### [Discord](https://discord.gg/Red4yqWn3F)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |
