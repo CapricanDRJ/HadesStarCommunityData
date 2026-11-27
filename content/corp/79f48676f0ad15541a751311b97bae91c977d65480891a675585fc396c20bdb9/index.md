@@ -1,6 +1,6 @@
 ---
 title: ​初始之音
-description: W:13 L:16 D:0 Bonus ✅ 32%
+description: W:13 L:16 D:0 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ✅ 23 - 0 **HIGH COMMAND**
 date: 2026-11-20T01:13:38.000Z
@@ -15,7 +15,7 @@ date: 2026-11-20T01:13:38.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |
