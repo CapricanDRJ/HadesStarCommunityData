@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "NoNightThere"
-description: "ws: 7 μ: 24.81"
+description: "ws: 8 μ: 26.44"
 ---
-- **WhiteStars**: 7
-- **Eligible**: 4
-- **Rating**: 0.18
-- **μ**: 24.81  
-- **σ**: 8.21
-- W: 3, L: 4, T: 0
+- **WhiteStars**: 8
+- **Eligible**: 5
+- **Rating**: 1.90
+- **μ**: 26.44  
+- **σ**: 8.18
+- W: 4, L: 4, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 7 μ: 24.81"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 4 |
+| [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 5 |
 
 ---
 
@@ -24,6 +24,7 @@ description: "ws: 7 μ: 24.81"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-26 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 9-5 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) |
 | 2026-11-10 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 48-0 | [Best](https://ws.tsl.rocks/corp/bd123b7fcde92215ca4105138efc2319522ee5f2e23c925a0f2aa73adf49261a/) |
 | 2026-06-03 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 2-13 | [ДИВЕРСАНТЫ](https://ws.tsl.rocks/corp/888c6867d19667e4ed2d1c33723960d52d5f92fd8a93eb6ff380d218604939fb/) |
 | 2026-02-05 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) | 3-7 | [СССР](https://ws.tsl.rocks/corp/9291f24e53a2d2d23f3f2fa934a9db2247ebfc94e3a48666dbdf0e2d160c4cfd/) |

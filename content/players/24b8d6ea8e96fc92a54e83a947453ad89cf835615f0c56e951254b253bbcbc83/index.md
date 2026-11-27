@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "Light Soul"
-description: "ws: 25 μ: 28.24"
+description: "ws: 26 μ: 26.95"
 ---
-- **WhiteStars**: 25
-- **Eligible**: 20
-- **Rating**: 4.97
-- **μ**: 28.24  
-- **σ**: 7.76
-- W: 16, L: 9, T: 0
+- **WhiteStars**: 26
+- **Eligible**: 21
+- **Rating**: 3.74
+- **μ**: 26.95  
+- **σ**: 7.73
+- W: 16, L: 10, T: 0
 
 ---
 
@@ -16,7 +16,7 @@ description: "ws: 25 μ: 28.24"
 
 | Corporation | WhiteStars |
 | --- | --- |
-| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 14 |
+| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 15 |
 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 6 |
 
 ---
@@ -25,6 +25,7 @@ description: "ws: 25 μ: 28.24"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-26 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 5-9 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | 2026-11-19 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 33-3 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | 2026-11-12 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 44-0 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43/) |
 | 2026-11-05 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 20-3 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |

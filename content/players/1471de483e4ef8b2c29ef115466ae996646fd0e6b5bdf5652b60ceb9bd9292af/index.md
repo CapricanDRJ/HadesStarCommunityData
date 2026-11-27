@@ -1,14 +1,14 @@
 ---
 layout: page
 title: "DyKv"
-description: "ws: 19 μ: 21.45"
+description: "ws: 20 μ: 20.08"
 ---
-- **WhiteStars**: 19
-- **Eligible**: 12
-- **Rating**: -2.53
-- **μ**: 21.45  
-- **σ**: 7.99
-- W: 4, L: 15, T: 0
+- **WhiteStars**: 20
+- **Eligible**: 13
+- **Rating**: -3.83
+- **μ**: 20.08  
+- **σ**: 7.97
+- W: 4, L: 16, T: 0
 
 ---
 
@@ -17,7 +17,7 @@ description: "ws: 19 μ: 21.45"
 | Corporation | WhiteStars |
 | --- | --- |
 | [АНДРОМЕДА](https://ws.tsl.rocks/corp/1e4e3bc5f21c0b6cd362f404b88f09e18e26a8c0134a31015d6d7577a7230dc9/) | 10 |
-| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 2 |
+| [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 3 |
 
 ---
 
@@ -25,6 +25,7 @@ description: "ws: 19 μ: 21.45"
 
 | Date | Corp | Score | Opponent |
 | --- | --- | --- | --- |
+| 2026-11-26 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 5-9 | [BrinySeal](https://ws.tsl.rocks/corp/05ada6d14c0c53422b434d3d55b1440370f85e96f93c74992cb8c4eb8f5503ba/) |
 | 2026-11-19 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 33-3 | [italian warrior](https://ws.tsl.rocks/corp/250e012fb7b1b538e15fd2775ee25239b9c59b999c6c3271340cc97d4654df79/) |
 | 2026-11-12 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 44-0 | [Moon Catchers](https://ws.tsl.rocks/corp/0625bb885137c3824ac346b97780181e23ee84562237eb345baa364f8d7d3c43/) |
 | 2026-11-06 | [\*СССР\*](https://ws.tsl.rocks/corp/65faf5c743dd419a1573d1c665f229a41f1724e27d160e5d2b01a4417a707e0e/) | 33-6 | [Death Flight](https://ws.tsl.rocks/corp/b343459f43f0a7c366dd05dcac02d78c7a8d6cf09c7241e9b558a92e2456e1d4/) |
