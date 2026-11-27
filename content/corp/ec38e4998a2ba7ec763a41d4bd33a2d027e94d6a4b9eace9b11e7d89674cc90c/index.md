@@ -1,6 +1,6 @@
 ---
 title: ​StarControl
-description: W:39 L:16 D:0 Bonus ✅ 52%
+description: W:39 L:16 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 43 - 3 **泰拉瑞亚**
 date: 2026-11-20T20:30:06.000Z
@@ -18,7 +18,7 @@ rs. Discord is required, please join us there before applying in game
 <br>
 
 ### [Discord](https://discord.gg/j8wnKvB)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
