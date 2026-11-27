@@ -1,6 +1,6 @@
 ---
 title: ​Держава Русь
-description: W:34 L:131 D:1 Bonus ✅ 48%
+description: W:34 L:131 D:1 Bonus ❌ 14%
 image: ./favicon.png
 Summary: ❌ 2 - 20 **Imperium XIII**
 date: 2026-11-26T02:14:18.000Z
@@ -15,7 +15,7 @@ date: 2026-11-26T02:14:18.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 48%
+### Whitestar Bonus ❌ 14%
 
 | Statistic | Value |
 | --- | --- |
