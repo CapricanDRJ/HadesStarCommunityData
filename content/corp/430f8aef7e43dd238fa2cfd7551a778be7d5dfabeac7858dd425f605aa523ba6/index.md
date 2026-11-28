@@ -1,6 +1,6 @@
 ---
 title: ​宇宙聯盟
-description: W:13 L:10 D:2 Bonus ❌ 32%
+description: W:13 L:10 D:2 Bonus ❌ 6%
 image: ./favicon.png
 Summary: ❌ 0 - 14 **Akatsuki**
 date: 2026-11-26T13:20:10.000Z
@@ -15,7 +15,7 @@ date: 2026-11-26T13:20:10.000Z
 ```
 <br>
 
-### Whitestar Bonus ❌ 32%
+### Whitestar Bonus ❌ 6%
 
 | Statistic | Value |
 | --- | --- |

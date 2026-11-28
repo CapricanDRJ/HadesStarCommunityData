@@ -1,6 +1,6 @@
 ---
 title: ​СССР
-description: W:178 L:77 D:2 Bonus ✅ 56%
+description: W:178 L:77 D:2 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 39 - 6 **世外桃源**
 date: 2026-11-21T05:55:42.000Z
@@ -21,7 +21,7 @@ Discord: discord.gg/aWj7XRq
 <br>
 
 ### [Discord](https://discord.gg/aWj7XRq)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

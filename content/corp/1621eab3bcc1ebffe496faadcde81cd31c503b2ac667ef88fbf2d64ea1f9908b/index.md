@@ -1,6 +1,6 @@
 ---
 title: ​IX Легион
-description: W:252 L:58 D:0 Bonus ✅ 60%
+description: W:252 L:58 D:0 Bonus ❌ 20%
 image: ./favicon.png
 Summary: ❌ 18 - 24 **Deadspace**
 date: 2026-11-21T07:25:47.000Z
@@ -20,7 +20,7 @@ gy
 <br>
 
 ### [Discord](https://discord.gg/fc2eg8hNJm)
-### Whitestar Bonus ✅ 60%
+### Whitestar Bonus ❌ 20%
 
 | Statistic | Value |
 | --- | --- |
