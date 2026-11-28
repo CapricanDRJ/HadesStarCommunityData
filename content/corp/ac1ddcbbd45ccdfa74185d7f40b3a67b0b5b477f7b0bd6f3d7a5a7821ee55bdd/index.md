@@ -1,6 +1,6 @@
 ---
 title: ​Widow Makers
-description: W:65 L:29 D:0 Bonus ✅ 52%
+description: W:65 L:29 D:0 Bonus ❌ 52%
 image: ./favicon.png
 Summary: ✅ 30 - 8 **On en a Gros \!**
 date: 2026-11-21T12:51:10.000Z
@@ -18,7 +18,7 @@ cord link below (Space Pals Server, Discord mandatory).
 <br>
 
 ### [Discord](https://discord.gg/3A9WHQV )
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 52%
 
 | Statistic | Value |
 | --- | --- |

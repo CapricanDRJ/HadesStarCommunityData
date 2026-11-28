@@ -1,6 +1,6 @@
 ---
 title: ​Austria
-description: W:39 L:30 D:1 Bonus ✅ 52%
+description: W:39 L:30 D:1 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 49 - 0 **Ark**
 date: 2026-11-21T10:56:01.000Z
@@ -22,7 +22,7 @@ UmWZYtn9Hh
 ```
 <br>
 
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |
