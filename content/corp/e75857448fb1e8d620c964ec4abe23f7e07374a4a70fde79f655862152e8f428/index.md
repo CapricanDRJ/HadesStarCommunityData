@@ -1,6 +1,6 @@
 ---
 title: ​BlackStar Order
-description: W:176 L:140 D:2 Bonus ✅ 60%
+description: W:176 L:140 D:2 Bonus ❌ 20%
 image: ./favicon.png
 Summary: ✅ 23 - 7 **Spacefleet**
 date: 2026-11-20T22:00:13.000Z
@@ -22,7 +22,7 @@ Discord: (YTaYrhy)
 <br>
 
 ### [Discord](https://discord.gg/YTaYrhy)
-### Whitestar Bonus ✅ 60%
+### Whitestar Bonus ❌ 20%
 
 | Statistic | Value |
 | --- | --- |
