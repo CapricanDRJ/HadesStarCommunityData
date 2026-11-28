@@ -1,6 +1,6 @@
 ---
 title: ​Space Pirates
-description: W:28 L:138 D:0 Bonus ✅ 44%
+description: W:28 L:138 D:0 Bonus ❌ 12%
 image: ./favicon.png
 Summary: ✅ 9 - 3 **Kratos**
 date: 2026-11-21T01:40:26.000Z
@@ -17,7 +17,7 @@ Discord invite code is https://discord.gg/44nD9yX
 ```
 <br>
 
-### Whitestar Bonus ✅ 44%
+### Whitestar Bonus ❌ 12%
 
 | Statistic | Value |
 | --- | --- |

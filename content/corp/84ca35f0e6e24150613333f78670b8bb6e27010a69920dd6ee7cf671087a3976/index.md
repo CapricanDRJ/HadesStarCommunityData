@@ -1,6 +1,6 @@
 ---
 title: ​CERBERUS SYSTEM
-description: W:44 L:22 D:0 Bonus ✅ 42%
+description: W:44 L:22 D:0 Bonus ❌ 11%
 image: ./favicon.png
 Summary: ✅ 23 - 1 **华夏三体\-基沃托斯集团**
 date: 2026-11-21T03:12:59.000Z
@@ -15,7 +15,7 @@ date: 2026-11-21T03:12:59.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 42%
+### Whitestar Bonus ❌ 11%
 
 | Statistic | Value |
 | --- | --- |

@@ -1,9 +1,9 @@
 ---
 title: ​imperio viltrum
-description: W:16 L:12 D:3 Bonus ✅ 34%
+description: W:17 L:12 D:3 Bonus ✅ 34%
 image: ./favicon.png
-Summary: ✅ 10 - 8 **Quantum Mass**
-date: 2026-11-22T17:38:22.000Z
+Summary: ✅ 1 - 0 **维埃星云氮氢钨钽**
+date: 2026-11-28T01:47:13.000Z
 ---
 <head>
 <link rel="icon" type="image/x-icon" href="./favicon.ico">
@@ -19,14 +19,14 @@ date: 2026-11-22T17:38:22.000Z
 
 | Statistic | Value |
 | --- | --- |
-| ELO Regular | 1274 🔺  (18)|
-| ELO Competitive | 1385 🔺  (19)|
-| Total Matches | 31 |
-| Wins | 16 |
+| ELO Regular | 1285 🔺  (10)|
+| ELO Competitive | 1394 🔺  (10)|
+| Total Matches | 32 |
+| Wins | 17 |
 | Losses | 12 |
 | Draws | 3 |
-| Streak | 4 |
-| Streak Record | 4 |
+| Streak | 5 |
+| Streak Record | 5 |
 | Flagship | 0 |
 
 ---
@@ -45,7 +45,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 <script>
     document.addEventListener("DOMContentLoaded", function() {
         // Ensure scanTime is an array; if empty, handle accordingly
-        let timestamps = [1794937102,1794481744,1794010708,1792416559,1791359287,1789805665,1789788168,1788596624,1788577725,1788096188,1787672871,1787578828,1787040447,1787028432,1786509852,1786506845,1786008113,1785988289,1785509387,1785475440,1784990835,1784952082,1784446761,1784365641,1783868727,1783570706,1783422292,1782866807,1782785387,1782107875,1781663201];
+        let timestamps = [1795398433,1794937102,1794481744,1794010708,1792416559,1791359287,1789805665,1789788168,1788596624,1788577725,1788096188,1787672871,1787578828,1787040447,1787028432,1786509852,1786506845,1786008113,1785988289,1785509387,1785475440,1784990835,1784952082,1784446761,1784365641,1783868727,1783570706,1783422292,1782866807,1782785387,1782107875,1781663201];
 
         const fontColor = 'rgba(64, 128, 160, 1)';
 
@@ -142,6 +142,7 @@ This chart shows the frequency of days of the week when whitestars were matched 
 
 |  | Date | Score | Opponent |
 | --- | --- | --- | --- |
+| ✅ | 2026/11/28 | 1-0 | [维埃星云氮氢钨钽](https://ws.tsl.rocks/corp/4f76f07e3376e9848983a4effbb2deca1f3d4602a1ed8c0346183dc7a589c40a/) |
 | ✅ | 2026/11/22 | 10-8 | [Quantum Mass](https://ws.tsl.rocks/corp/44d9c6eeca8ee3bf778e4151cd31aa5ac12fb892236081fc3d7d09271a821f2b/) |
 | ✅ | 2026/11/17 | 9-0 | [U\.N\.S\.C](https://ws.tsl.rocks/corp/70dea9b99e388e4ecc15b483cde11adecf8126fc5fd8976564ee112bd466c1ac/) |
 | ✅ | 2026/11/12 | 9-2 | [宇宙聯盟](https://ws.tsl.rocks/corp/430f8aef7e43dd238fa2cfd7551a778be7d5dfabeac7858dd425f605aa523ba6/) |
@@ -180,5 +181,5 @@ Corporation ID: 1a05510a2d3a1b3ace3e9e8a00750bf17d53a3cd2d4c6d846f98d54658ffd17f
 [Hades' Star](https://www.hadesstar.com)
 <script src="/assets/localtime.js"></script>
 <div>
-  Last updated: <span class="last-updated-date" data-unix-time="1795369102"></span>
+  Last updated: <span class="last-updated-date" data-unix-time="1795830433"></span>
 </div>
