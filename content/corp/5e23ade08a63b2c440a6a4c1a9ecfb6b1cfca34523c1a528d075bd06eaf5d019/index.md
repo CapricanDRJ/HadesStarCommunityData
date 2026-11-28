@@ -1,6 +1,6 @@
 ---
 title: ​QONQR
-description: W:63 L:20 D:0 Bonus ✅ 46%
+description: W:63 L:20 D:0 Bonus ❌ 13%
 image: ./favicon.png
 Summary: ✅ 23 - 0 **WinterComes**
 date: 2026-11-21T07:20:47.000Z
@@ -18,7 +18,7 @@ t mandatory, but it's much welcome.
 <br>
 
 ### [Discord](https://discord.gg/A8AucxezBX)
-### Whitestar Bonus ✅ 46%
+### Whitestar Bonus ❌ 13%
 
 | Statistic | Value |
 | --- | --- |

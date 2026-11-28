@@ -1,6 +1,6 @@
 ---
 title: ​pirates spatial
-description: W:182 L:103 D:0 Bonus ✅ 56%
+description: W:182 L:103 D:0 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ❌ 0 - 11 **9\-Й СКОРПИОН**
 date: 2026-11-21T15:31:23.000Z
@@ -21,7 +21,7 @@ https://discord.gg/wZcGGNZ
 <br>
 
 ### [Discord](https://discord.gg/wZcGGNZ)
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |

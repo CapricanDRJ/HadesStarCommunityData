@@ -1,6 +1,6 @@
 ---
 title: ​Deadspace
-description: W:87 L:95 D:0 Bonus ✅ 52%
+description: W:87 L:95 D:0 Bonus ❌ 16%
 image: ./favicon.png
 Summary: ✅ 24 - 18 **IX Легион**
 date: 2026-11-21T07:25:47.000Z
@@ -25,7 +25,7 @@ Discord mandatory.  <b>EEpZuWf</b>
 <br>
 
 ### [Discord](https://discord.gg/EEpZuWf)
-### Whitestar Bonus ✅ 52%
+### Whitestar Bonus ❌ 16%
 
 | Statistic | Value |
 | --- | --- |

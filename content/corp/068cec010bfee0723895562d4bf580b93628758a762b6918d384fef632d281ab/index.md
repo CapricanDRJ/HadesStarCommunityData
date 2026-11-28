@@ -1,6 +1,6 @@
 ---
 title: ​СОЮЗ
-description: W:116 L:74 D:2 Bonus ✅ 56%
+description: W:116 L:74 D:2 Bonus ❌ 18%
 image: ./favicon.png
 Summary: ✅ 23 - 1 **Любители Пива**
 date: 2026-11-21T07:50:49.000Z
@@ -16,7 +16,7 @@ date: 2026-11-21T07:50:49.000Z
 ```
 <br>
 
-### Whitestar Bonus ✅ 56%
+### Whitestar Bonus ❌ 18%
 
 | Statistic | Value |
 | --- | --- |
